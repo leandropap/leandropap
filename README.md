@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leandropap
 - 👀 I’m interested in making my first septs into coding 
-- 🌱 I’m currently learning JavaScipt
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me leandropap@gmail.com
 
 <!---
