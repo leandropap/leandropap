@@ -1,5 +1,5 @@
 
-<h1>About</h1>
+<h2>About</h2>
 👋 Hi there! My name is Leandro, and I'm a Full Stack Web Developer. I feel confident working both on back-end and front-end, altough I'm more familiarized with the latter. I consider myself a person of innate curiosity, a versatile, team worker and a logical thinker. Always open to new ideas, looking forward to new challenges, learning and improving skills, and solving whatever problems get in the way. 
 <br></br>
 👀 I’m interested in making my first septs into coding 
