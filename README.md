@@ -6,6 +6,11 @@
 <br></br>
 🌱 I’m currently learning TypeScript and Node.js
 
+<h2>Skills</h2>
+
+
+<h2>Contact</h2>
+
 
 <!---
 leandropap/leandropap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
