@@ -1,5 +1,5 @@
 <h2>About</h2>
-👋 Hi there! My name is Leandro, and I'm a Full Stack Web Developer. I've loved technology ever since I was a child, though it took me a while to start my own way into this fascinating world. The more I discover, the more it amazes me!. I consider myself a person of innate curiosity, a versatile, team worker and a logical thinkerAlways open to new ideas, looking forward to new challenges, learning and improving skills, and solving whatever problems get in the way. 
+👋 Hi there! My name is Leandro, and I'm a Full Stack Web Developer. I've loved technology ever since I was a child, though it took me a while to start my own way into this fascinating world. The more I discover, the more it amazes me!. I consider myself a person of innate curiosity, a versatile, team worker and a logical thinker. Open to new ideas, looking forward to new challenges and solving whatever problems get in the way. 
 <br></br>
 👀 I’m interested in improving and broadening my tech stack, say frameworks, libraries, methods, all of it! Altough I'm more familiarized with front-end, I'm equally as confident working on back-end. I'm always googling and looking for new stuff!
 <br></br>
