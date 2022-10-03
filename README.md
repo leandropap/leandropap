@@ -46,11 +46,8 @@
 </a> 
 
 <a href="https://www.linkedin.com/in/leandro-pappalardo/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/94720565/193684450-a1a720f4-7f49-457d-88e3-b2b34b2f051f.png" alt="git" width="110"/>
+  <img src="https://user-images.githubusercontent.com/94720565/193684844-8dbe0d3e-ea6c-4195-b6ae-65626e80b3f6.png" alt="git" width="70"/>
 </a> 
-
-![download]()
-
 
 
 <!---
