@@ -1,9 +1,9 @@
 <h2>About</h2>
-👋 Hi there! My name is Leandro, and I'm a Full Stack Web Developer. I feel confident working both on back-end and front-end, altough I'm more familiarized with the latter. I consider myself a person of innate curiosity, a versatile, team worker and a logical thinker. Always open to new ideas, looking forward to new challenges, learning and improving skills, and solving whatever problems get in the way. 
+👋 Hi there! My name is Leandro, and I'm a Full Stack Web Developer. I've loved technology ever since I was a child, though it took me a while to start my own way into this fascinating world. The more I discover, the more it amazes me!. I consider myself a person of innate curiosity, a versatile, team worker and a logical thinkerAlways open to new ideas, looking forward to new challenges, learning and improving skills, and solving whatever problems get in the way. 
 <br></br>
-👀 I’m interested in making my first septs into coding
+👀 I’m interested in improving and broadening my tech stack, say frameworks, libraries, methods, all of it! Altough I'm more familiarized with front-end, I'm equally as confident working on back-end. I'm always googling and looking for new stuff!
 <br></br>
-🌱 I’m currently learning TypeScript and Node.js. 
+🌱 I’m currently learning TypeScript and deepening my Node.js knowledges!
 <br></br>
 🎸 In the meantime, I'm an amateur guitarist with too many effect pedals. I play can bass too(not). Passionate about audio, music production and mixing. Skyscraper enthusiast and worst basketball player you'll know. 
 
