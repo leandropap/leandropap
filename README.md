@@ -3,7 +3,7 @@
 <br></br>
 👀 I’m interested in improving and broadening my tech stack, say frameworks, libraries, methods, all of it! Altough I'm more familiarized with front-end, I'm equally as confident working on back-end. I'm always googling and looking for new stuff!
 <br></br>
-🌱 I’m currently learning TypeScript and deepening my Node.js knowledges!
+🌱 I’m currently learning Java, Spring and NextJS and deepening my React knowledges!
 <br></br>
 🎸 In the meantime, I'm an amateur guitarist with too many effect pedals. I play can bass too(not). Passionate about audio, music production and mixing. Skyscraper enthusiast and worst basketball player you'll know. 
 
